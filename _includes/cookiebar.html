@@ -1,13 +1,7 @@
-<div class="cookiebar bg-dark p-4 hide" aria-hidden="true">
-  <div class="container">
-    <div class="row d-flex align-items-center">
-      <div class="col-12 col-md-8">
-        <span class="text-white small">{{ site.data.t.cookie-policy-info[page.lang]}}</span>
-      </div>
-      <div class="col-12 col-md-4 mt-4 mt-md-0 d-flex justify-content-end">
-        <a class="btn btn-link" href="{{ site.baseurl }}{{ site.data.t.footer-links[page.lang]['privacy-policy'].url }}">Privacy policy</a>
-        <button class="btn btn-primary mr-2" data-accept="cookiebar">{{ site.data.t.cookie-policy-accept-btn[page.lang] }}</button>
-      </div>
-    </div>
-  </div>
-</div>
+<!-- Cookie Consent by TermsFeed https://www.TermsFeed.com -->
+<script type="text/javascript" src="//www.termsfeed.com/public/cookie-consent/4.2.0/cookie-consent.js" charset="UTF-8"></script>
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palette":"dark","language":"en","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"page_refresh_confirmation_buttons":false});
+});
+</script>
