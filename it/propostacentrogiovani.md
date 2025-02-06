@@ -4,10 +4,8 @@ title: Privacy Policy
 description: Sample Description
 lang: it
 date: 6 febbraio 2025
-img: https://www.susannafer.com/wordpress/wp-content/uploads/2020/10/esempio-personas-template-1.png
-ref: privacy-policy
+img: /assets/images/468058936_122179946330048687_8277255189166061205_n.jpg
 creator: Gabriel Jones
-permalink: /it/privacy-policy
+permalink: /proposte/centrogiovani/
+author-username: PresidentOffice
 ---
-
-Questo è un esempio di pagina per una "privacy policy".
