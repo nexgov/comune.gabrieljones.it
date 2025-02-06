@@ -5,9 +5,9 @@ descrizione: Argomenti di interesse verso il progetto
 lang: it
 date: 6 febbraio 2025
 img: https://www.payroll.it/wp-content/uploads/2022/09/pari-opportunita-uomo-donna-L.jpg
-creator: Ufficio dei soci
+creator: Ufficio dei soci - dipartimento dei soci
 permalink: /aree-amministrative/uffici/pariopportunita/
-author-username: Soci
+author-username: Dip.Soci
 ---
 
 Arena Giovani è un progetto che mette al centro il benessere della comunità. Per questo, l'Ufficio dei Soci ha istituito, all'interno dell'area amministrativa dei servizi, l'Ufficio Pari Opportunità, che si occupa di:
