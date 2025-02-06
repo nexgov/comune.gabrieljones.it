@@ -4,7 +4,7 @@ title: Pari Opportunità
 descrizione: Argomenti di interesse verso il progetto 
 lang: it
 date: 6 febbraio 2025
-img: https://www.comune.eraclea.ve.it/wp-content/uploads/2023/06/top-area-contabile.webp
+img: https://www.payroll.it/wp-content/uploads/2022/09/pari-opportunita-uomo-donna-L.jpg
 creator: Ufficio dei soci
 permalink: /aree-amministrative/uffici/pariopportunita/
 author-username: Soci
