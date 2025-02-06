@@ -1,24 +1,6 @@
 cards:
   - title: "Consiglio direttivo"
-    link: "/consigliodirettivo/"
-    image: "/assets/1.png"
-    category: "organi"
-    description: "L'organo che si occupa di tutto il progetto!"
-  
-  - title: "Eventi e Attività"
-    link: "/eventi/"
-    image: "/assets/2.png"
-    category: "eventi"
-    description: "Scopri gli eventi e le attività in programma!"
-  
-  - title: "Documenti ufficiali"
-    link: "/documenti/"
-    image: "/assets/3.png"
-    category: "risorse"
-    description: "Accedi a tutti i documenti ufficiali dell'associazione."
-
-  - title: "Contattaci"
-    link: "/contatti/"
-    image: "/assets/4.png"
+    link: "/dipartimentodirettivo/"
+    image: "https://www.diversamenteonlus.org/wp-content/uploads/2019/12/consiglio.jpg"
     category: "info"
     description: "Hai domande? Contattaci subito!"
