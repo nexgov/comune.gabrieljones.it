@@ -35,3 +35,43 @@ cards:
     category: "info"
     description: "Hai domande? Contattaci subito!"
  
+  - title: "Aree"
+    link: "https://comune.arenagiovani.it/aree-amministrative/"
+    image: "https://anagrafe.iccu.sbn.it/export/photo/IT/PN/0036/sedefontanafredda.jpg"
+    category: "info"
+    description: "Hai domande? Contattaci subito!"
+ 
+  - title: "Persone Online"
+    link: "https://comune.arenagiovani.it/persone/"
+    image: "https://anagrafe.iccu.sbn.it/export/photo/IT/PN/0036/sedefontanafredda.jpg"
+    category: "info"
+    description: "Hai domande? Contattaci subito!"
+ 
+
+  - title: "Uffici"
+    link: "https://comune.arenagiovani.it/aree-amministrative/uffici/"
+    image: "https://anagrafe.iccu.sbn.it/export/photo/IT/PN/0036/sedefontanafredda.jpg"
+    category: "info"
+    description: "Hai domande? Contattaci subito!"
+ 
+
+  - title: "Ufficio Associazioni"
+    link: "https://comune.arenagiovani.it/aree-amministrative/uffici/associazioni/"
+    image: "https://anagrafe.iccu.sbn.it/export/photo/IT/PN/0036/sedefontanafredda.jpg"
+    category: "info"
+    description: "Hai domande? Contattaci subito!"
+ 
+
+  - title: "Ufficio Stampa"
+    link: "https://comune.arenagiovani.it/aree-amministrative/uffici/stampa/"
+    image: "https://anagrafe.iccu.sbn.it/export/photo/IT/PN/0036/sedefontanafredda.jpg"
+    category: "info"
+    description: "Hai domande? Contattaci subito!"
+ 
+
+  - title: "Ufficio Informatico"
+    link: "https://comune.arenagiovani.it/aree-amministrative/uffici/cultura/biblioteca/"
+    image: "https://anagrafe.iccu.sbn.it/export/photo/IT/PN/0036/sedefontanafredda.jpg"
+    category: "info"
+    description: "Hai domande? Contattaci subito!"
+ 
