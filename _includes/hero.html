@@ -16,15 +16,18 @@
     </div>
   </div>
 </div>
+
+
 <div class="container">
   <div class="row">
+    {% for item in site.data.evidenza %}
     <div class="col-12">
       <div class="card-wrapper card-space">
         <div class="card card-bg">
           <div class="card-body">
-            <h5 class="card-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor…</h5>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <a class="read-more" href="#">
+            <h5 class="card-title">{{ item.title }}</h5>
+            <p class="card-text">{{ item.description }}</p>
+            <a class="read-more" href="{{ item.link }}">
               <span class="text">Leggi di più</span>
               <svg class="icon">
                 <use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/dist/svg/sprite.svg#it-arrow-right"></use>
@@ -34,5 +37,6 @@
         </div>
       </div>
     </div>
+    {% endfor %}
   </div>
 </div>
