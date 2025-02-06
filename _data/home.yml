@@ -18,7 +18,7 @@ cards:
     description: "Hai domande? Contattaci subito!"
  
   - title: "Ufficio Cultura"
-    link: "https://comune.arenagiovani.it/aree-amministrative/uffici/cultura/"
+    link: "https://comune.arenagiovani.it/assets/images/Cultura.png"
     image: "https://unica.istruzione.gov.it/cercalatuascuola/render/document/PNEE81103P;jsessionid=Ho3ExdQeQBWlB7hfhm8YBW5s.mvlas069_1?codTipFil=8&prgDoc=1&x="
     category: "Ufficio"
     description: "Hai domande? Contattaci subito!"
@@ -37,7 +37,7 @@ cards:
  
   - title: "Aree"
     link: "https://comune.arenagiovani.it/aree-amministrative/"
-    image: "https://anagrafe.iccu.sbn.it/export/photo/IT/PN/0036/sedefontanafredda.jpg"
+    image: "https://comune.arenagiovani.it/assets/images/Aree.png"
     category: "info"
     description: "Hai domande? Contattaci subito!"
  
@@ -50,28 +50,28 @@ cards:
 
   - title: "Uffici"
     link: "https://comune.arenagiovani.it/aree-amministrative/uffici/"
-    image: "https://anagrafe.iccu.sbn.it/export/photo/IT/PN/0036/sedefontanafredda.jpg"
+    image: "https://comune.arenagiovani.it/assets/images/ufficihead%20.png"
     category: "info"
     description: "Hai domande? Contattaci subito!"
  
 
   - title: "Ufficio Associazioni"
     link: "https://comune.arenagiovani.it/aree-amministrative/uffici/associazioni/"
-    image: "https://anagrafe.iccu.sbn.it/export/photo/IT/PN/0036/sedefontanafredda.jpg"
+    image: "https://www.asso360.it/wp-content/uploads/2018/09/democrazia-soci-associazione.jpg"
     category: "info"
     description: "Hai domande? Contattaci subito!"
  
 
   - title: "Ufficio Stampa"
     link: "https://comune.arenagiovani.it/aree-amministrative/uffici/stampa/"
-    image: "https://anagrafe.iccu.sbn.it/export/photo/IT/PN/0036/sedefontanafredda.jpg"
+    image: "https://www.brainpull.com/articoliImg/ufficio-stampa-cos-cosa-fa-attivit-e-servizi-dagenzia_1680103509.jpg"
     category: "info"
     description: "Hai domande? Contattaci subito!"
  
 
   - title: "Ufficio Informatico"
-    link: "https://comune.arenagiovani.it/aree-amministrative/uffici/cultura/biblioteca/"
-    image: "https://anagrafe.iccu.sbn.it/export/photo/IT/PN/0036/sedefontanafredda.jpg"
+    link: "https://comune.arenagiovani.it/aree-amministrative/uffici/informatico/"
+    image: "https://www.ufficiodomani.it/wp-content/uploads/2019/01/informatica.png"
     category: "info"
     description: "Hai domande? Contattaci subito!"
  
