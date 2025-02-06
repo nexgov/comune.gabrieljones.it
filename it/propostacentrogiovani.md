@@ -9,9 +9,6 @@ creator: Gabriel Jones
 permalink: /proposte/centrogiovani/
 author-username: PresidentOffice
 ---
-Ecco un possibile post per il blog istituzionale:  
-
----
 
 # 🏛️ **Presentazione della proposta per un Centro Giovani a Fontanafredda** 🎉  
 
