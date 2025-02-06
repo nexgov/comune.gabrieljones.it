@@ -7,8 +7,8 @@ social-card: /assets/images/favicons/social-card.png
 
 ## Site name
 name:
-  en: "A Jekyll theme"
-  it: "Un tema Jekyll"
+  en: "Arena giovani"
+  it: "Arena giovani"
 
 ## Site description
 description:
@@ -17,25 +17,15 @@ description:
 
 ## Site author
 author:
-  en: "Digital Transformation Team"
-  it: "Team per la Trasformazione Digitale"
+  en: "Gabriel Jones \ 18F team"
+  it: "Gabriel Jones \ 18F team"
 
 ## Social
 social-links:
-  en:
-    twitter:
-      name: "twitter"
-      url: "https://twitter.com/ITdigitalteam"
-    medium:
-      name: "medium"
-      url: "https://medium.com/team-per-la-trasformazione-digitale/"
   it:
     twitter:
       name: "twitter"
-      url: "https://twitter.com/teamdigitaleIT"
-    medium:
-      name: "medium"
-      url: "https://medium.com/team-per-la-trasformazione-digitale/"
+      url: "https://x.com/CultureEnea"
 
 ## Labels
 italian-version:
