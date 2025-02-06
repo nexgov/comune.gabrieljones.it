@@ -1,9 +1,10 @@
 cards:
-  - title: "Consiglio direttivo"
-    link: "/dipartimentodirettivo/"
-    image: "https://www.diversamenteonlus.org/wp-content/uploads/2019/12/consiglio.jpg"
-    category: "info"
-    description: "Hai domande? Contattaci subito!"
+  - title: "Pari Opportunità"
+    link: "https://comune.arenagiovani.it/aree-amministrative/uffici/pariopportunita/"
+    image: "https://www.legacoop-piemonte.coop/Portals/1/EasyDNNNews/2303/600600p999EDNmainimg-pari-opportunita.png"
+    category: "Area Tematica"
+    description: "Arena Giovani è un progetto che mette al centro il benessere della comunità. Per questo, l’Ufficio dei Soci ha istituito, all’interno..."
+
   - title: "Consiglio direttivo"
     link: "/dipartimentodirettivo/"
     image: "https://www.diversamenteonlus.org/wp-content/uploads/2019/12/consiglio.jpg"
