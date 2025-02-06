@@ -31,7 +31,7 @@ author-username: PresidentOffice
                         </div>
                     </div>
                     <div class="col">
-                        <img class="img-fluid float-end" style="width: 100%; height: 140px; object-fit: cover;" src="/images/gabriel-jones.png" alt="Gabriel Jones">
+                        <img class="img-fluid float-end" style="width: 100%; height: 140px; object-fit: cover;" src="/assets/images/gabriel-jones.png" alt="Gabriel Jones">
                     </div>
                 </div>
             </div>
