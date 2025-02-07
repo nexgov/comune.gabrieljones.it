@@ -73,7 +73,7 @@ author-username: PresidentOffice
                                 </a>
                             </h5>
                             <div class="">
-                                <p>Responsabile Area 1</p>
+                                <p>Socio esterno - Responsabile Area 1</p>
                             </div>
                         </div>
                     </div>
