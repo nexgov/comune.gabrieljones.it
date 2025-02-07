@@ -44,6 +44,29 @@ author-username: PresidentOffice
                     <div class="col-md-8">
                         <div class="card-body">
                             <h5 class="card-title fs-5 fw-semibold">
+                                <a class="text-decoration-none" href="/persone/presidentoffice/">
+                                    Gabriel Jones
+                                </a>
+                            </h5>
+                            <div class="">
+                                <p>Presidente - Reponsabile area 1</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                          <div class="avatar size-xxl">
+                            <img src="https://comune.arenagiovani.it/IMG_20240808_184050_862.jpg" alt="Gabriel Jones">
+                          </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6 mb-1 mt-1">
+            <div class="card no-after card-bg card-vertical-thumb bg-white bx-shadow-sm bx-border-light rounded">
+                <div class="row g-0">
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title fs-5 fw-semibold">
                                 <a class="text-decoration-none" href="/persone/tb/">
                                     Tommaso B.
                                 </a>
