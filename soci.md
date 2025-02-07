@@ -44,18 +44,18 @@ author-username: PresidentOffice
                     <div class="col-md-8">
                         <div class="card-body">
                             <h5 class="card-title fs-5 fw-semibold">
-                                <a class="text-decoration-none" href="/persone/presidentoffice/">
-                                    Gabriel Jones
+                                <a class="text-decoration-none" href="/persone/alessio/">
+                                    Alessio
                                 </a>
                             </h5>
                             <div class="">
-                                <p>Presidente - Reponsabile area 1</p>
+                                <p>Socio - Reponsabile area 3</p>
                             </div>
                         </div>
                     </div>
                     <div class="col">
-                          <div class="avatar size-xxl">
-                            <img src="https://comune.arenagiovani.it/IMG_20240808_184050_862.jpg" alt="Gabriel Jones">
+  <div class="avatar size-xxl">
+                            <img src="/1681739313393.png" alt="Gabriel Jones">
                           </div>
                     </div>
                 </div>
