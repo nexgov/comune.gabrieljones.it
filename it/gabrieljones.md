@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: socio
 title: GabrielJones
 descrizione: Documento PDF
 lang: it
