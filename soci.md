@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: Soci
@@ -55,7 +56,7 @@ author-username: PresidentOffice
                     </div>
                     <div class="col">
   <div class="avatar size-xxl">
-                            <img src="/1681739313393.png" alt="Gabriel Jones">
+                            <img src="/assets/images/469196075_1106601414343644_6938069309298698205_n.jpg" alt="Alessio">
                           </div>
                     </div>
                 </div>
