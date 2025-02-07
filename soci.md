@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Soci
@@ -10,6 +9,7 @@ creator: Soci
 permalink: /organi/soci/
 author-username: PresidentOffice
 ---
+
 <section id="soci" class="it-page-section mb-30" data-audio="">
     <h3 class="mb-3" id="competenze">Soci di Arena Giovani</h3>
     <div class="richtext-wrapper lora">
