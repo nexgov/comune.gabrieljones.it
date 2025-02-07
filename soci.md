@@ -26,7 +26,7 @@ author-username: PresidentOffice
                                 </a>
                             </h5>
                             <div class="">
-                                <p>Presidente</p>
+                                <p>Presidente - Reponsabile area 1</p>
                             </div>
                         </div>
                     </div>
