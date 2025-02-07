@@ -1,0 +1,76 @@
+<!-- Modal -->
+<div class="modal fade" id="SidebarModal" tabindex="-1" aria-labelledby="SidebarModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-fullscreen" role="document"> <!-- Modal fullscreen per occupare l'intero schermo -->
+    <div class="modal-content">
+      <!-- Header del Modal -->
+      <div class="modal-header">
+        <h5 class="modal-title" id="SidebarModalLabel">Sidebar</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <!-- Corpo del Modal (contiene la sidebar) -->
+      <div class="modal-body">
+        <!-- Sidebar -->
+        <div class="sidebar-wrapper theme-dark">
+          <h3>Header</h3>
+          <div class="sidebar-linklist-wrapper">
+            <div class="link-list-wrapper">
+              <ul class="link-list">
+                <li>
+                  <a class="list-item large medium right-icon active" href="#collapseFour" role="button" data-bs-toggle="collapse" aria-expanded="true" aria-controls="collapseOne">
+                    <span class="list-item-title-icon-wrapper">
+                      <span>Link lista 1 (selezionato)</span><svg class="icon icon-sm icon-white right" aria-hidden="true"><use href="/bootstrap-italia/dist/svg/sprites.svg#it-expand"></use></svg>
+                    </span>
+                  </a>
+                  <ul class="link-sublist collapse show" id="collapseFour">
+                    <li><a class="list-item active" href="#"><span>Link lista 1.1 (attivo)</span></a></li>
+                    <li><a class="list-item" href="#"><span>Link lista 1.2</span></a></li>
+                    <li><a class="list-item" href="#"><span>Link lista 1.3</span></a></li>
+                  </ul>
+                </li>
+                <li>
+                  <a class="list-item large medium right-icon" href="#collapseFive" role="button" data-bs-toggle="collapse" aria-expanded="false" aria-controls="collapseTwo">
+                    <span class="list-item-title-icon-wrapper">
+                      <span>Link lista 2</span><svg class="icon icon-sm icon-white right" aria-hidden="true"><use href="/bootstrap-italia/dist/svg/sprites.svg#it-expand"></use></svg>
+                    </span>
+                  </a>
+                  <ul class="link-sublist collapse" id="collapseFive">
+                    <li><a class="list-item" href="#"><span>Link lista 2.1</span></a></li>
+                    <li><a class="list-item" href="#"><span>Link lista 2.2</span></a></li>
+                    <li><a class="list-item" href="#"><span>Link lista 2.3</span></a></li>
+                  </ul>
+                </li>
+                <li>
+                  <a class="list-item large medium right-icon" href="#collapseSix" role="button" data-bs-toggle="collapse" aria-expanded="false" aria-controls="collapseThree">
+                    <span class="list-item-title-icon-wrapper">
+                      <span>Link lista 3</span><svg class="icon icon-sm icon-white right" aria-hidden="true"><use href="/bootstrap-italia/dist/svg/sprites.svg#it-expand"></use></svg>
+                    </span>
+                  </a>
+                  <ul class="link-sublist collapse" id="collapseSix">
+                    <li><a class="list-item" href="#"><span>Link lista 3.1</span></a></li>
+                    <li><a class="list-item" href="#"><span>Link lista 3.2</span></a></li>
+                    <li><a class="list-item" href="#"><span>Link lista 3.3</span></a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="sidebar-linklist-wrapper linklist-secondary">
+            <div class="link-list-wrapper">
+              <ul class="link-list">
+                <li><a class="list-item" href="#"><span>Link secondario 1</span></a></li>
+                <li><a class="list-item active" href="#"><span>Link secondario 2 (attivo)</span></a></li>
+                <li><a class="list-item disabled" href="#"><span>Link secondario 3 (disabilitato)</span></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Footer del Modal -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Chiudi</button>
+      </div>
+    </div>
+  </div>
+</div>
