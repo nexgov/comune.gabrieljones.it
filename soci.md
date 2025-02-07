@@ -31,9 +31,9 @@ author-username: PresidentOffice
                         </div>
                     </div>
                     <div class="col">
-  <div class="avatar size-xxl">
-    <img src="https://comune.arenagiovani.it/IMG_20240808_184050_862.jpg" alt="Gabriel Jones">
-  </div>
+                          <div class="avatar size-xxl">
+                            <img src="https://comune.arenagiovani.it/IMG_20240808_184050_862.jpg" alt="Gabriel Jones">
+                          </div>
                     </div>
                 </div>
             </div>
@@ -54,8 +54,9 @@ author-username: PresidentOffice
                         </div>
                     </div>
                     <div class="col">
-                        <img class="img-fluid float-end" style="width: 100%; height: 140px; object-fit: cover;" src="/images/tommaso-b.png" alt="Tommaso B.">
-                    </div>
+  <div class="avatar size-xxl">
+                            <img src="/1681739313393.png" alt="Gabriel Jones">
+                          </div>                    </div>
                 </div>
             </div>
         </div>
