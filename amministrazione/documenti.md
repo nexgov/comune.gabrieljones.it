@@ -15,7 +15,7 @@ permalink: /it/amministrazione/documenti/
         <div class="flag-icon"></div>
         <div class="etichetta">
           <svg class="icon"><use href="/bootstrap-italia/dist/svg/sprites.svg#it-settings"></use></svg>
-          <span>Ufficio: {{ documento.area }}</span>
+          <span>Ufficio: {{ documento.ufficio }}</span>
         </div>
         <div class="card-body">
           <h3 class="card-title h5 ">{{ documento.nome }}</h3>
