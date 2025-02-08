@@ -17,8 +17,7 @@ permalink: /it/amministrazione/trasparenza/
             <h3 class="card-title h5">{{ comunicato.titolo }}</h3>
           <p class="card-text font-serif">{{ comunicato.testo }}</p>
           <a class="read-more" href="{{ comunicato.link }}">
-            <span class="text">Leggi di più</span>
-            <span class="visually-hidden">su {{ comunicato.titolo }}</span>
+            <span class="visually-hidden">{{ comunicato.titolo }}</span>
             <svg class="icon"><use href="/bootstrap-italia/dist/svg/sprites.svg#it-arrow-right"></use></svg>
           </a>
         </div>
