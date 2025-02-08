@@ -16,7 +16,7 @@ title: Comunicati
       <div class="card card-bg card-big">
         <div class="card-body">
           <div class="top-icon">
-            <svg class="icon"><use href="/bootstrap-italia/dist/svg/sprites.svg#it-card"></use></svg>
+            <svg class="icon"><use href="/bootstrap-italia/dist/svg/sprites.svg#it-files"></use></svg>
           </div>
           <h3 class="card-title h5">{{ comunicato.titolo }}</h3>
           <p class="card-text font-serif">{{ comunicato.testo }}</p>
