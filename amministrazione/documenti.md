@@ -24,7 +24,7 @@ permalink: /it/amministrazione/documenti/
             <span class="text">Leggi di più</span>
             <svg class="icon"><use href="/bootstrap-italia/dist/svg/sprites.svg#it-arrow-right"></use></svg>
           </a>
-          <h6 class="card-title h6 ">{{ documento.autore }}</h6>
+          <h6 class="card-title h6 ">Autore del documento: {{ documento.autore }}</h6>
         </div>
       </div>
     </div>
