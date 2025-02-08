@@ -4,7 +4,7 @@ title: Documenti
 category: amministrazione
 permalink: /it/amministrazione/trasparenza/
 ---
-
+<div class="container">
 <div class="row">
   <div class="col-12 col-lg-8">
     <!--start card-->
@@ -28,4 +28,5 @@ permalink: /it/amministrazione/trasparenza/
     {% endfor %}
     <!--end card-->
   </div>
+</div>
 </div>
