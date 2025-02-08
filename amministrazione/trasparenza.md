@@ -6,10 +6,9 @@ permalink: /it/amministrazione/trasparenza/
 ---
 <div class="container">
   <div class="row">
-    {% for documento in site.data.amministrazione-documenti.documenti %}
+    {% for documento in site.data.trasparenza.documenti %}
     <div class="col-12 col-lg-8">
       <!--start card-->
-<a href="{{ documento.link }}">
       <div class="card-wrapper card-space">
         <div class="card card-bg card-big border-bottom-card">
           <div class="flag-icon"></div>
@@ -29,7 +28,6 @@ permalink: /it/amministrazione/trasparenza/
         </div>
       </div>
       <hr>
-</a>
       <!--end card-->
     </div>
     {% endfor %}
