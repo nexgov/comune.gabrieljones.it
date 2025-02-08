@@ -1,0 +1,15 @@
+documenti:
+  - nome: "Regolamento Interno"
+    descrizione: "Norme e procedure dell'amministrazione."
+    link: "/documenti/regolamento.pdf"
+    area: "Normativa"
+
+  - nome: "Bilancio 2024"
+    descrizione: "Report finanziario per l'anno 2024."
+    link: "/documenti/bilancio-2024.pdf"
+    area: "Finanze"
+
+  - nome: "Modulistica Generale"
+    descrizione: "Modulo per richieste generali."
+    link: "/documenti/modulistica.pdf"
+    area: "Moduli"
