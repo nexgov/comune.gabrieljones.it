@@ -3,9 +3,6 @@ layout: default
 title: Documenti
 category: amministrazione
 permalink: /it/amministrazione/trasparenza/
-------
-layout: default
-title: Comunicati
 ---
 
 <div class="row">
