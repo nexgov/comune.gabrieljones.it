@@ -1,12 +1,15 @@
----
-
 [
-  {% for post in site.posts %}
     {
-      "title"    : "{{ post.title }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date | date_to_string }}",
-      "description" : "{{ post.description | strip_html | strip_newlines | escape }}"
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
+      "title"    : "Goodbye WordPress, I've Switched To Jekyll (Again)",
+      "url"      : "/goodbye-wordpress-switched-to-jekyll/",
+      "date"     : "04 Dec 2021",
+      "description" : "I&#39;ve decided to leave WordPress behind and switch to Jekyll...for a second time. This post explains why..."
+    } ,
+
+    {
+      "title"    : "The Pagination Predicament",
+      "url"      : "/the-pagination-predicament",
+      "date"     : "26 Nov 2021",
+      "description" : "I&#39;ve removed pagination from my blog for SEO reasons. This post explains why."
+    }
 ]
