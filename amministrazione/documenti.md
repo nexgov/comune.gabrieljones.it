@@ -6,31 +6,6 @@ permalink: /it/amministrazione/documenti/
 ---
 <div class="container">
 <div class="row">
-    <div class="col-12 col-lg-6">
-      <div class="card-wrapper">
-        <div class="card">
-          <div class="card-body">
-            <div class="categoryicon-top">
-              <svg class="icon">
-                <use href="/bootstrap-italia/dist/svg/sprites.svg#it-file"></use>
-              </svg>
-              <span class="text">Categoria<br></span>
-            </div>
-            <a href="{{ documento.link }}">
-              <h3 class="card-title h5"></h3>
-            </a>
-            <p class="card-text font-serif"></p>
-            <a href class="button">Scarica</a>
-            <span class="text">Autore: <br>{{ documento.autore }}</span>
-          </div>
-        </div>
-      </div>
-    </div>
-<hr>
-    <!--end col-->
-</div>
-<!--end row-->
-<div class="row">
   {% for documento in site.data.amministrazione-documenti.documenti %}
 
   <div class="col-12 col-lg-8">
@@ -53,6 +28,7 @@ permalink: /it/amministrazione/documenti/
         </div>
       </div>
     </div>
+<hr>
     <!--end card-->
   </div>
   {% endfor %}
