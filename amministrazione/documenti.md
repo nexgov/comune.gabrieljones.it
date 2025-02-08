@@ -26,6 +26,7 @@ permalink: /it/amministrazione/documenti/
         </div>
       </div>
     </div>
+<hr>
     <!--end col-->
 </div>
 <!--end row-->
