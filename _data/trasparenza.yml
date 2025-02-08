@@ -1,6 +1,6 @@
 # _data/trasparenza.yml
 comunicati:
-  - id: "200"
-    titolo: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor…"
-    testo: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    link: "#"
+  - id: "1"
+    titolo: "Comunicato del presidente N1"
+    testo: "Gabriel Jones e il suo team hanno annunciato che, a partire dal 1° aprile 2025, il nuovo direttivo sarà ufficialmente insediato, aprendo la strada a una gestione più inclusiva e trasparente. Per scoprire tutti i dettagli e le novità, vi invitiamo a leggere il documento completo, che include informazioni cruciali sul progetto e sulle modalità di partecipazione."
+    link: "https://comune.arenagiovani.it/assets/1.pdf"
