@@ -1,10 +1,6 @@
 # _data/trasparenza.yml
 comunicati:
   - id: "200"
-    anno: "2025"
-    protocollo: "2008/2025 del 07/02/2025"
-    decisione: "Decisione di contrarre per l’affidamento diretto di acquisto MANUTENZIONE TORNI - BSMACCHINE"
-    pubblicazione: "07/02/2025"
-    tipologia: "Contabilità"
-    allegato_url: "https://web.spaggiari.eu/sdg2/Documenti/PNII0002/195019168"
-    download_url: "https://web.spaggiari.eu/sdg2/Documenti/PNII0002/195019168?download=1"
+    titolo: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor…"
+    testo: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    link: "#"
