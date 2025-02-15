@@ -66,7 +66,7 @@ Gabriel Jones è il presidente del progetto di Arena Giovani
                 </h5>
                 <div class="card-text">
                     <p>
-                        L’Ufficio Cultura di Arena Giovani è un’iniziativa gestita dall’Area 1 di maggioranza e ha l’obiettivo di avvicin                    </p>
+                        L’Ufficio Cultura di Arena Giovani è un’iniziativa gestita dall’Area 1                    </p>
                 </div>
             </div>
                     </div>
