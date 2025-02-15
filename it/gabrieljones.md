@@ -1,5 +1,5 @@
 ---
-layout: persona
+layout: page
 title: Gabriel Jones
 descrizione: Carica
 lang: it
