@@ -26,5 +26,4 @@ order: 1
     <!--end card-->
   </div>
 </div>
-ciao
 </div>
