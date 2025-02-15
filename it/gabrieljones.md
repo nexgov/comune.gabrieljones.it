@@ -4,25 +4,73 @@ title: Gabriel Jones
 descrizione: Carica
 lang: it
 date: 6 febbraio 2025
-img: /assets/images/1734198716099.jpg4
-persona: https://comune.arenagiovani.it/IMG_20240808_184050_862.jpg
+img: https://gabriel-jones.online.upid.it/assets/c1.png
+persona: 
 creator: Ufficio Soci
 permalink: /persone/PresidentOffice/
 author-username: 
 ---
 
-# 🏛️ **Presentazione della proposta per un Centro Giovani a Fontanafredda** 🎉  
+# 👤 **Gabriel Jones** Presidente del progetto 👤  
 
-📢 Il **8 febbraio 2025** presenterò ufficialmente al **Comune di Fontanafredda** la proposta per la creazione di un **Centro Giovani** presso l’ex Risorgiva.  
+Gabriel Jones è il presidente del progetto di Arena Giovani
 
-🎯 L’obiettivo? Offrire ai ragazzi dai 12 ai 18 anni **uno spazio sicuro, stimolante e inclusivo**, con attività educative, culturali e sportive.  
 
-🛠️ **Punti chiave della proposta:**  
-✅ Un ambiente multifunzionale per la crescita e la socializzazione.  
-✅ Laboratori e corsi in collaborazione con associazioni locali.  
-✅ Coinvolgimento della comunità e inclusione intergenerazionale.  
-✅ Un progetto ispirato a modelli di successo come il Centro Giovani di Pordenone.  
 
-🔜 **Un passo importante per il futuro dei giovani del nostro territorio!** Seguimi per aggiornamenti e, se vuoi contribuire con idee o suggerimenti, scrivimi a **gabriel.jones@18f.it** 📩  
 
-#FontanafreddaGiovani #CentroGiovani #FuturoInComune  
+
+
+
+
+
+<section class="it-page-section mb-30" data-audio="">
+                <h3 class="mb-3" id="organizzazione">Uffici e organizzazioni</h3>
+                <div class="row">
+                  
+            <div class="col-sm-6">
+            <div class="card card-teaser card-teaser-info rounded p-3 m-1 bx-shadow-sm">
+            <div class="card-body pe-3">
+                <h5 class="card-title fs-5 fw-semibold">
+                    <a class="text-decoration-none" href="https://comune.arenagiovani.it/organi/soci/" data-element="service-area">
+                        Organo dei Soci                    </a>
+                </h5>
+                <div class="card-text">
+                    <p>
+                        L'organo principale che gestisce tutte le aree, uffici e personale.                    </p>
+                </div>
+            </div>
+                    </div>
+            </div>
+    
+            <div class="col-sm-6">
+            <div class="card card-teaser card-teaser-info rounded p-3 m-1 bx-shadow-sm">
+            <div class="card-body pe-3">
+                <h5 class="card-title fs-5 fw-semibold">
+                    <a class="text-decoration-none" href="https://comune.arenagiovani.it/aree-amministrative/uffici/cultura/" data-element="service-area">
+                        Ufficio cultura                    </a>
+                </h5>
+                <div class="card-text">
+                    <p>
+                        L’Ufficio Cultura di Arena Giovani è un’iniziativa gestita dall’Area 1 di maggioranza e ha l’obiettivo di avvicin                    </p>
+                </div>
+            </div>
+                    </div>
+            </div>    
+            <div class="col-sm-6">
+            <div class="card card-teaser card-teaser-info rounded p-3 m-1 bx-shadow-sm">
+            <div class="card-body pe-3">
+                <h5 class="card-title fs-5 fw-semibold">
+                    <a class="text-decoration-none" href="https://comune.arenagiovani.it/aree-amministrative/aree/2/" data-element="service-area">
+                        Area 2 - l'area che gestisce il publico.                    </a>
+                </h5>
+                <div class="card-text">
+                    <p>
+                        L'area 2 è l'area che gestisce gli uffici per il publico.
+                        </p>
+                </div>
+            </div>
+                    </div>
+            </div>
+                    </div>
+                <br>
+              </section>
