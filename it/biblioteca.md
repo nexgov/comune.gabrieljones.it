@@ -17,6 +17,8 @@ author-username:
 <input type="submit" class="btn btn-primary" value="Cerca nell'OPAC">
 </form>
 
+<hr>
+
 La **Biblioteca Comunale di Fontanafredda** è un vero e proprio punto di riferimento culturale per la comunità, che mette a disposizione un ampio patrimonio di circa **26.000 documenti**, accuratamente catalogati attraverso il sistema **Bibliowin**, un programma automatizzato che gestisce ogni aspetto delle procedure biblioteconomiche. Per facilitare l’accesso alle risorse, è possibile consultare il catalogo online all'indirizzo [fontanafredda.infoteca.it](https://fontanafredda.infoteca.it/ricerca/semplice), dove i cittadini possono esplorare il ricco patrimonio bibliografico e, se necessario, fare una proposta di prenotazione.
 
 Accanto ai libri, la biblioteca offre una selezione di **DVD**, divisi in due sezioni distinte: una per il pubblico adulto e una specifica per bambini e ragazzi. In questo modo, tutti gli utenti, indipendentemente dall’età, possono accedere a materiali audiovisivi di qualità, in linea con i propri interessi. La biblioteca è pensata per essere un luogo accogliente per ogni fascia di età e interesse.
