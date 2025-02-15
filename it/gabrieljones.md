@@ -16,11 +16,26 @@ author-username:
 Gabriel Jones è il presidente del progetto di Arena Giovani
 
 
+# Data di insediamento
+1 gennaio 2025
 
+# Competenze
+- Culturali
+- Tecnologiche
+- Gestione di un gruppo di lavoro
 
+# Pagine competenti
+[Trasparenza](https://comune.arenagiovani.it/it/amministrazione/trasparenza/)
 
+[Cultura](https://comune.arenagiovani.it/aree-amministrative/uffici/cultura/)
 
+[Biblioteca](https://comune.arenagiovani.it/aree-amministrative/uffici/cultura/biblioteca/)
 
+[Scuola](https://comune.arenagiovani.it/aree-amministrative/uffici/cultura/scuola/)
+
+[Area 1](https://comune.arenagiovani.it/aree-amministrative/aree/1/)
+
+[Area 2](https://comune.arenagiovani.it/aree-amministrative/aree/2/)
 
 
 <section class="it-page-section mb-30" data-audio="">
