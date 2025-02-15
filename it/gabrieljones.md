@@ -4,7 +4,8 @@ title: Gabriel Jones
 descrizione: Carica
 lang: it
 date: 6 febbraio 2025
-img: /assets/images/1734198716099.jpg
+img: /assets/images/1734198716099.jpg4
+persona: https://comune.arenagiovani.it/IMG_20240808_184050_862.jpg
 creator: Ufficio Soci
 permalink: /persone/PresidentOffice/
 author-username: 
