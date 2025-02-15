@@ -13,8 +13,8 @@ author-username:
 # Biblioteca comunale di Fontanafredda  
 
 <form id="searchForm">
-<input type="text" id="query" placeholder="Cerca un libro..." required>
-<input type="submit" value="Cerca">
+<input type="text" id="query" placeholder="Cerca un libro nell'OPAC della biblioteca comunale di Fontanafredda..." required>
+<input type="submit" value="Cerca nell'OPAC">
 </form>
 
 La **Biblioteca Comunale di Fontanafredda** è un vero e proprio punto di riferimento culturale per la comunità, che mette a disposizione un ampio patrimonio di circa **26.000 documenti**, accuratamente catalogati attraverso il sistema **Bibliowin**, un programma automatizzato che gestisce ogni aspetto delle procedure biblioteconomiche. Per facilitare l’accesso alle risorse, è possibile consultare il catalogo online all'indirizzo [fontanafredda.infoteca.it](https://fontanafredda.infoteca.it/ricerca/semplice), dove i cittadini possono esplorare il ricco patrimonio bibliografico e, se necessario, fare una proposta di prenotazione.
