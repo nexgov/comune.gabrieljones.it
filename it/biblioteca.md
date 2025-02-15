@@ -6,7 +6,7 @@ lang: it
 date: 6 febbraio 2025
 img: https://comune.arenagiovani.it/assets/images/IMG_20250125_093305.jpg
 creator: Ufficio Soci
-permalink: /persone/PresidentOffice/
+permalink: /aree-amministrative/uffici/cultura/biblioteca/
 author-username: 
 ---
 
