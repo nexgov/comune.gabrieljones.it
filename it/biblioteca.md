@@ -10,81 +10,20 @@ permalink: /aree-amministrative/uffici/cultura/biblioteca/
 author-username: 
 ---
 
-# 👤 **Gabriel Jones** Presidente del progetto 👤  
+# Biblioteca comunale di Fontanafredda  
 
-Gabriel Jones è il presidente del progetto di Arena Giovani
+La **Biblioteca Comunale di Fontanafredda** è un vero e proprio punto di riferimento culturale per la comunità, che mette a disposizione un ampio patrimonio di circa **26.000 documenti**, accuratamente catalogati attraverso il sistema **Bibliowin**, un programma automatizzato che gestisce ogni aspetto delle procedure biblioteconomiche. Per facilitare l’accesso alle risorse, è possibile consultare il catalogo online all'indirizzo [fontanafredda.infoteca.it](https://fontanafredda.infoteca.it/ricerca/semplice), dove i cittadini possono esplorare il ricco patrimonio bibliografico e, se necessario, fare una proposta di prenotazione.
 
+Accanto ai libri, la biblioteca offre una selezione di **DVD**, divisi in due sezioni distinte: una per il pubblico adulto e una specifica per bambini e ragazzi. In questo modo, tutti gli utenti, indipendentemente dall’età, possono accedere a materiali audiovisivi di qualità, in linea con i propri interessi. La biblioteca è pensata per essere un luogo accogliente per ogni fascia di età e interesse.
 
-# Data di insediamento
-1 gennaio 2025
+Oltre alla consultazione in sede, uno dei servizi più apprezzati è il **prestito a domicilio** del materiale, ad eccezione di opere enciclopediche e di particolare pregio. Questo servizio consente di fruire della vasta offerta bibliografica comodamente da casa, estendendo l’accesso alla cultura e alla lettura anche a chi non può frequentare regolarmente la biblioteca. A disposizione degli utenti ci sono anche **due postazioni Internet**, che offrono accesso alla rete per ricerche e attività online, e un’ampia **sala studio** dove gli studenti e i professionisti possono concentrarsi e lavorare in un ambiente tranquillo e stimolante.
 
-# Competenze
-- Culturali
-- Tecnologiche
-- Gestione di un gruppo di lavoro
+Un aspetto che contraddistingue la Biblioteca Comunale di Fontanafredda è la sua **sezione dedicata a bambini, ragazzi e adolescenti**, divisa in due spazi distinti per accogliere al meglio le diverse esigenze. Questa sezione possiede una ricca collezione di **volumi per lettori dai 0 ai 14 anni**, continuamente aggiornata con nuove acquisizioni, per offrire sempre stimoli freschi e divertenti ai giovani lettori. Grazie a questa attenzione speciale verso i più piccoli, la biblioteca diventa un luogo privilegiato dove si stimola la curiosità, l’immaginazione e l’amore per la lettura fin dalla prima infanzia.
 
-# Pagine competenti
-[Trasparenza](https://comune.arenagiovani.it/it/amministrazione/trasparenza/)
+Inoltre, la biblioteca promuove una **variegata offerta di iniziative culturali** pensate per coinvolgere attivamente la comunità. Tra queste, spicca la rassegna **"AperiLIBRIamo"**, che presenta libri nuovi con la partecipazione degli autori, creando un momento di incontro e dialogo tra lettori e scrittori. Un altro appuntamento molto atteso è **"LaboratoriAMO"**, una serie di attività trasversali dedicate alle famiglie, che spaziano dalla creatività manuale alla lettura interattiva, sempre con l’obiettivo di rafforzare il legame con il mondo della cultura. 
 
-[Cultura](https://comune.arenagiovani.it/aree-amministrative/uffici/cultura/)
+Un’iniziativa particolarmente apprezzata è **"Il filo di Loretta"**, una rubrica di recensioni mensili di libri, che offre spunti di lettura per tutti i gusti, accompagnati da approfondimenti critici. E non finisce qui: **"La Biblioteca fuori di sè"** è un programma che porta eventi e attività culturali anche fuori dalle mura della biblioteca, promuovendo la lettura e l’informazione in luoghi diversi, rendendo la cultura accessibile anche in contesti meno tradizionali.
 
-[Biblioteca](https://comune.arenagiovani.it/aree-amministrative/uffici/cultura/biblioteca/)
+La **Biblioteca Comunale di Fontanafredda** collabora attivamente con diverse **associazioni locali**, ampliando ulteriormente le opportunità di partecipazione e di crescita culturale per tutti. Le sue numerose attività contribuiscono a costruire una comunità più coesa, in cui la cultura non è solo un bene da fruire, ma anche un motore di sviluppo e di scambio.
 
-[Scuola](https://comune.arenagiovani.it/aree-amministrative/uffici/cultura/scuola/)
-
-[Area 1](https://comune.arenagiovani.it/aree-amministrative/aree/1/)
-
-[Area 2](https://comune.arenagiovani.it/aree-amministrative/aree/2/)
-
-
-<section class="it-page-section mb-30" data-audio="">
-                <h3 class="mb-3" id="organizzazione">Uffici e organizzazioni</h3>
-                <div class="row">
-                  
-            <div class="col-sm-6">
-            <div class="card card-teaser card-teaser-info rounded p-3 m-1 bx-shadow-sm">
-            <div class="card-body pe-3">
-                <h5 class="card-title fs-5 fw-semibold">
-                    <a class="text-decoration-none" href="https://comune.arenagiovani.it/organi/soci/" data-element="service-area">
-                        Organo dei Soci                    </a>
-                </h5>
-                <div class="card-text">
-                    <p>
-                        L'organo principale che gestisce tutte le aree, uffici e personale.                    </p>
-                </div>
-            </div>
-                    </div>
-            </div>
-    
-            <div class="col-sm-6">
-            <div class="card card-teaser card-teaser-info rounded p-3 m-1 bx-shadow-sm">
-            <div class="card-body pe-3">
-                <h5 class="card-title fs-5 fw-semibold">
-                    <a class="text-decoration-none" href="https://comune.arenagiovani.it/aree-amministrative/uffici/cultura/" data-element="service-area">
-                        Ufficio cultura                    </a>
-                </h5>
-                <div class="card-text">
-                    <p>
-                        L’Ufficio Cultura di Arena Giovani è un’iniziativa gestita dall’Area 1                    </p>
-                </div>
-            </div>
-                    </div>
-            </div>    
-            <div class="col-sm-6">
-            <div class="card card-teaser card-teaser-info rounded p-3 m-1 bx-shadow-sm">
-            <div class="card-body pe-3">
-                <h5 class="card-title fs-5 fw-semibold">
-                    <a class="text-decoration-none" href="https://comune.arenagiovani.it/aree-amministrative/aree/2/" data-element="service-area">
-                        Area 2 - l'area che gestisce il publico.                    </a>
-                </h5>
-                <div class="card-text">
-                    <p>
-                        L'area 2 è l'area che gestisce gli uffici per il publico.
-                        </p>
-                </div>
-            </div>
-                    </div>
-            </div>
-                    </div>
-                <br>
-              </section>
+In sintesi, la biblioteca è un luogo vitale e dinamico, che va ben oltre la semplice conservazione dei libri, diventando un ambiente dove **la cultura, l’educazione e la socialità** si incontrano e si arricchiscono continuamente, offrendo servizi e attività per ogni fascia di età e ogni interesse.
