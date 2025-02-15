@@ -12,7 +12,7 @@ author-username: PresidentOffice
 
 # 🏛️ **Presentazione della proposta per un Centro Giovani a Fontanafredda** 🎉  
 
-📢 Il **8 febbraio 2025** presenterò ufficialmente al **Comune di Fontanafredda** la proposta per la creazione di un **Centro Giovani** presso l’ex Risorgiva.  
+📢 A **Giugno 2025** presenterò ufficialmente al **Comune di Fontanafredda** la proposta per la creazione di un **Centro Giovani** presso l’ex Risorgiva.  
 
 🎯 L’obiettivo? Offrire ai ragazzi dai 12 ai 18 anni **uno spazio sicuro, stimolante e inclusivo**, con attività educative, culturali e sportive.  
 

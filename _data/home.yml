@@ -5,12 +5,18 @@ cards:
     category: "Ufficio"
     description: "Arena Giovani è un progetto che mette al centro il benessere della comunità. Per questo, l’Ufficio dei Soci ha istituito, all’interno..."
 
-  - title: "Ufficio sport"
-    link: "https://comune.arenagiovani.it/aree-amministrative/uffici/sport/"
-    image: "https://www.calciofvg.live/wp-content/uploads/2023/11/Fontanafredda-Under-14-2023-2024.jpeg"
-    category: "Ufficio"
+  - title: "Proposta centro giovani"
+    link: "https://comune.arenagiovani.it/proposte/centrogiovani/"
+    image: "/assets/images/propostacentrogiovanihead.png"
+    category: "Proposta"
     description: "Hai domande? Contattaci subito!"
- 
+
+  - title: "Ufficio Pari Opportunità"
+    link: "https://comune.arenagiovani.it/aree-amministrative/uffici/pariopportunita/"
+    image: "https://comune.arenagiovani.it/assets/images/IntegrazioneSociale.png"
+    category: "Ufficio"
+    description: "Arena Giovani è un progetto che mette al centro il benessere della comunità. Per questo, l’Ufficio dei Soci ha istituito, all’interno..."
+
   - title: "Ufficio Urbanistica"
     link: "https://comune.arenagiovani.it/aree-amministrative/uffici/urbanistica/"
     image: "https://www.giornalenordest.it/wp-content/uploads/2022/12/uscita-fontanafredda-a28-780x470.jpg"
