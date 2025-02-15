@@ -13,16 +13,28 @@
   <h1>{{ page.title }}</h1>
   <h5><b>Descrizione: </b>Persona publica che gestisce un'area amministrativa, ufficio, organo o quant'altro all'interno di Arena Giovani</h5>
 </div>
+
+
+<style> 
+    .cerchio {
+      width: 350px;  /* Diametro = 2 * raggio */
+      height: 350px; /* Diametro = 2 * raggio */
+      border-radius: 90%; /* Crea il cerchio */
+      overflow: hidden; /* Nasconde le parti dell'immagine che escono dal cerchio */
+      background-image: url('{{ page.persona }}'); /* Sostituisci con l'URL della tua immagine */
+      background-size: cover; /* Adatta l'immagine per coprire tutto il cerchio */
+      background-position: center; /* Centra l'immagine nel cerchio */
+    }
+</style>
   <section class="it-hero-wrapper" aria-label="In evidenza">
     <div class="img-responsive-wrapper">
        <div class="img-responsive">
           <div class="img-wrapper"><img src="{{ page.img }}"></div>
        </div>
+      <div class="cerchio"></div>
     </div>
  </section>
-  <div class="avatar size-xxl">
-    <img src="https://comune.arenagiovani.it/IMG_20240808_184050_862.jpg" alt="Gabriel Jones">
-  </div>
+
 
 
 
