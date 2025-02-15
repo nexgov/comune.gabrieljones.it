@@ -1,5 +1,5 @@
 ---
-layout: socio
+layout: persona
 title: Gabriel Jones
 descrizione: Carica
 lang: it
