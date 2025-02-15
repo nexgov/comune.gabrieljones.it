@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="{{ page.lang }}">
+<head>
+  {% include meta.html %}
+  {% include styles.html %}
+  {%- if jekyll.environment == 'production' -%}
+  {%- include analytics/google-analytics.html -%}
+  {%- endif -%}
+</head>
+<body>
+  {%- include header/header.html -%}
+<div class="container">
+  <h1>{{ page.title }}</h1>
+  <h5><b>Descrizione: </b>Persona publica che gestisce un'area amministrativa, ufficio, organo o quant'altro all'interno di Arena Giovani</h5>
+</div>
+  <section class="it-hero-wrapper" aria-label="In evidenza">
+    <div class="img-responsive-wrapper">
+       <div class="img-responsive">
+          <div class="img-wrapper"><img src="{{ page.img }}"></div>
+       </div>
+    </div>
+ </section>
+  <div class="avatar size-xxl">
+    <img src="https://comune.arenagiovani.it/IMG_20240808_184050_862.jpg" alt="Gabriel Jones">
+  </div>
+
+
+
+
+  
+
+
+  <div class="container">
+    {{ content }}
+    <hr>
+    <p><b>Questa pagina è gestita da : </b></p>
+    <div class="row">
+      <div class="col-12 col-lg-6">
+        <!--start card-->
+        <div class="card-wrapper card-space">
+          <div class="card card-bg">
+            <div class="card-body">
+              <h3>Ufficio dei soci</h3>
+              <p>1 gennaio 2025</p>
+              <p>Profile:</p><a href="https://comune.arenagiovani.it/organi/soci/"><p>Ufficio dei soci</p></a>
+            </div>
+          </div>
+        </div>
+        <!--end card-->
+      </div>
+    </div>
+    </div>
+  {%- include footer/footer.html -%}
+  {%- include cookiebar.html -%}
+  {%- include scripts.html -%}
+</body>
+</html>
