@@ -3,7 +3,7 @@ layout: page
 title: Arena Giovani
 description:
 lang: it
-img: https://www.avvenire.it/c/2019/PublishingImages/bb766197e021445f8e567592bdf16fc1/oratorio.jpg?width=1024
+img: https://statics.cedscdn.it/photos/MED_LOW/98/69/7749869_11174641_fontanafredda_centro.jpg?webp
 permalink: /C8/22-02-2025/
 ---
 
