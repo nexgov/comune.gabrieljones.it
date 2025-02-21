@@ -25,8 +25,8 @@ permalink: /C8/22-02-2025/
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>Francesco</td>
-      <td>Bianchi</td>
+      <td>Programma Giornata</td>
+      <td>PDF </td>
       <td><a href="/assets/programma_oratorio_22_02_2025.pdf">Link Accesso</a></td>
     </tr>
   </tbody>
