@@ -6,6 +6,7 @@ lang: it
 ref: Documento Attività Oratorio
 permalink: /C8/22-02-2025/
 order: 1
+img: https://www.avvenire.it/c/2019/PublishingImages/bb766197e021445f8e567592bdf16fc1/oratorio.jpg?width=1024
 ---
 
 <section class="section bg-white">
