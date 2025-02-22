@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Documenti
+title: Trasparenza
 category: amministrazione
 permalink: /it/amministrazione/trasparenza/
 data_file: trasparenza
