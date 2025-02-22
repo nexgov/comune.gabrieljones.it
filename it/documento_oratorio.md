@@ -21,13 +21,19 @@ permalink: /C8/22-02-2025/
       <th scope="row">1</th>
       <td>Schede da stampare </td>
       <td>ZIP </td>
-      <td><a href="/assets/1.zip">Link Accesso</a></td>
+      <td><a href="https://drive.google.com/file/d/1-8LAB67s-x2vem-ZdkxIsxqNzllZCZec/view?usp=sharing">Link Accesso</a></td>
     </tr>
     <tr>
       <th scope="row">2</th>
       <td>Programma Giornata</td>
       <td>PDF </td>
       <td><a href="/assets/programma_oratorio_22_02_2025.pdf">Link Accesso</a></td>
+    </tr>
+   <tr>
+      <th scope="row">3</th>
+      <td>Risorse Private </td>
+      <td>ZIP </td>
+      <td><a href="#accessononconsentito">Link Accesso</a></td>
     </tr>
   </tbody>
 </table>
