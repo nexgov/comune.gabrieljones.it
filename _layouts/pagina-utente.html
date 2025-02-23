@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="{{ page.lang }}">
+<head>
+  {% include meta.html %}
+  {% include styles.html %}
+  {%- if jekyll.environment == 'production' -%}
+  {%- include analytics/google-analytics.html -%}
+  {%- endif -%}
+</head>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    if (!window.netlifyIdentity) {
+      console.error("Netlify Identity non è caricato.");
+      return;
+    }
+
+    window.netlifyIdentity.on("init", (user) => {
+      if (!user) {
+        // Se l'utente non è loggato, lo rimanda alla home o alla login
+        window.location.href = "/login.html"; 
+      }
+    });
+  });
+</script>
+<body>
+  {%- include header/header.html -%}
+  {{ content }}
+<script src="/search.js"></script>
+
+</body>
+</html>
