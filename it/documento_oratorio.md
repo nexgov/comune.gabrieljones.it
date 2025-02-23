@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pagina-utente
 title: Arena Giovani
 description:
 lang: it
