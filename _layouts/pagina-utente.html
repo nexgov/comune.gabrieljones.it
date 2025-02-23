@@ -2,6 +2,7 @@
 <html lang="{{ page.lang }}">
 <head>
   {% include styles.html %}
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
   {%- include header/header.html -%}
@@ -10,6 +11,8 @@
   <h1>Benvenuto utente autenticato!</h1>
   <p>Solo gli utenti loggati possono vedere questo contenuto.</p>
 </div>
+<button onclick="netlifyIdentity.open()">Login</button>
+<button onclick="netlifyIdentity.logout()">Logout</button>
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
