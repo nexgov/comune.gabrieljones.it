@@ -35,7 +35,25 @@ La **Biblioteca Comunale di Fontanafredda** collabora attivamente con diverse **
 
 In sintesi, la biblioteca è un luogo vitale e dinamico, che va ben oltre la semplice conservazione dei libri, diventando un ambiente dove **la cultura, l’educazione e la socialità** si incontrano e si arricchiscono continuamente, offrendo servizi e attività per ogni fascia di età e ogni interesse.
 
-
+Progetti: 
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Nome</th>
+      <th scope="col">Descrizione</th>
+      <th scope="col">Sito</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Bibliotecando</td>
+      <td>Nasce "Bibliotecando", il blog comunitario per le biblioteche del Friuli Venezia Giulia e Veneto, uno spazio aperto per condividere esperienze, opinioni e conoscenze del settore.</td>
+      <td><a href="https://bibliotecando.it">Accesso alla risorsa</a><hr><a href="https://trasparenza.18f.it/AvvioProgettoBibliotecando.pdf">Accesso all'atto</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <script>
     document.getElementById('searchForm').addEventListener('submit', function(event) {
