@@ -23,6 +23,8 @@ Gabriel Jones è il presidente del progetto di Arena Giovani
 - Culturali
 - Tecnologiche
 - Gestione di un gruppo di lavoro
+# Modalità di entrata nell'ufficio soci: 
+Senza elezioni
 
 # Pagine competenti
 [Trasparenza](https://comune.arenagiovani.it/it/amministrazione/trasparenza/)
