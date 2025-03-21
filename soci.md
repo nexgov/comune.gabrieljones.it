@@ -33,7 +33,7 @@ author-username: Gabriel "Matteo" Jones
                     </div>
                     <div class="col">
                           <div class="avatar size-xxl">
-                            <img src="https://comune.arenagiovani.it/IMG_20240808_184050_862.jpg" alt="Gabriel Jones">
+                            <img src="https://comune.arenagiovani.it/1.jpg" alt="Gabriel Jones">
                           </div>
                     </div>
                 </div>
