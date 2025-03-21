@@ -25,3 +25,5 @@ author-username: PresidentOffice
 🔜 **Un passo importante per il futuro dei giovani del nostro territorio!** Seguimi per aggiornamenti e, se vuoi contribuire con idee o suggerimenti, scrivimi a **gabriel.jones@18f.it** 📩  
 
 #FontanafreddaGiovani #CentroGiovani #FuturoInComune  
+
+**Accesso al documento** [link](https://comune.arenagiovani.it/assets/Pubblica_Centro_Giovani.pdf)
