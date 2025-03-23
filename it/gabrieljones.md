@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Gabriel Jones
+title: Gabriel "Matteo" Jones
 descrizione: Carica
 lang: it
 date: 6 febbraio 2025
 img: https://gabriel-jones.online.upid.it/assets/c1.png
 persona: 
-creator: Ufficio Soci
-permalink: /persone/PresidentOffice/
-author-username: 
+creator: Dipartimento-direttivo
+permalink: /persone/gabrielmatteojones/
+author-username: Ufficio Pubblico
 ---
 
-# 👤 **Gabriel Jones** Presidente del progetto 👤  
+# 👤 **Gabriel "Matteo" Jones** Presidente del progetto 👤  
 
-Gabriel Jones è il presidente del progetto di Arena Giovani
+Gabriel "Matteo" Jones è il presidente del progetto di Arena Giovani
 
 
 # Data di insediamento
@@ -39,6 +39,9 @@ Senza elezioni
 
 [Area 2](https://comune.arenagiovani.it/aree-amministrative/aree/2/)
 
+[Gabriel "Matteo" Jones](https://gabrielmatteojones.link/)
+
+[gabrieljones.it](https://gabrieljones.it/)
 
 <section class="it-page-section mb-30" data-audio="">
                 <h3 class="mb-3" id="organizzazione">Uffici e organizzazioni</h3>
