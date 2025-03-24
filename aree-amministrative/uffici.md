@@ -153,7 +153,7 @@ author-username: Dip.Soci
 </section>
 
 <hr>
-<h2>Area 2</h2>
+<h2>Dipartimento Direttivo</h2>
 <section id="figli" class="it-page-section mb-30" data-audio="">
     <h3 class="mb-3" id="figl">Uffici collegati</h3>
     <div class="row">
@@ -161,12 +161,12 @@ author-username: Dip.Soci
             <div class="card card-teaser card-teaser-info rounded p-3 m-1 bx-shadow-sm">
                 <div class="card-body pe-3">
                     <h5 class="card-title fs-5 fw-semibold">
-                        <a class="text-decoration-none" href="https://comune.arenagiovani.it/aree-amministrative/uffici/pubblico/" data-element="service-area">
-                            Pubblico
+                        <a class="text-decoration-none" href="https://comune.arenagiovani.it/organi/soci/" data-element="service-area">
+                            Organo dei soci
                         </a>
                     </h5>
                     <div class="card-text">
-                        <p>Ufficio</p>
+                        <p>Organo</p>
                     </div>
                 </div>
             </div>
@@ -175,17 +175,15 @@ author-username: Dip.Soci
             <div class="card card-teaser card-teaser-info rounded p-3 m-1 bx-shadow-sm">
                 <div class="card-body pe-3">
                     <h5 class="card-title fs-5 fw-semibold">
-                        <a class="text-decoration-none" href="https://comune.arenagiovani.it/aree-amministrative/uffici/stampa/" data-element="service-area">
-                            Stampa
+                        <a class="text-decoration-none" href="https://comune.arenagiovani.it/organi/direttivo/" data-element="service-area">
+                            Organo direttivo
                         </a>
                     </h5>
                     <div class="card-text">
-                        <p>Ufficio</p>
+                        <p>Organo</p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-
-      
